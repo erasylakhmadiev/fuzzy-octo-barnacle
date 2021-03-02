@@ -1,0 +1,28 @@
+body
+{
+margin: auto;
+text-align: center;
+background: grey;
+}
+
+h1
+{
+  font-size: 100px;
+  margin: 10px auto;
+  color: #b2fcff;
+}
+
+
+.player1
+{
+color: #b2fcff;
+display: inline-block;
+margin-right:70px;
+}
+
+.player2
+{
+  color: #b2fcff;
+  display: inline-block;
+  margin-left:70px;
+}
